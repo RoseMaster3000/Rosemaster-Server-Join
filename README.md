@@ -8,3 +8,7 @@ I wrote this simple mod that lets you configure a list of commands to be run whe
 
 ## Features
 * This mod injects into the [Player Join] event, and runs commands listed in the config file `server_join_commands.txt`. *(Type `{player}` in the command for the players name)*
+
+
+## Links
+* [Book Generator](https://www.gamergeeks.net/apps/minecraft/give-command-generator/written-books)
