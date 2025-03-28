@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "rosemaster-server-join",
+	"version": "${version}",
+	"name": "Rosemaster-Server-Join",
+    "description": "Runs a list of commands when a player joins the server for the first time.",	"authors": [
+		"RoseMaster3000"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/RoseMaster3000/Rosemaster-Server-Join"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/rosemaster-server-join/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"rosemaster.serverjoin.ServerJoinMod"
+		]
+	},
+	"mixins": [
+		"rosemaster-server-join.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
