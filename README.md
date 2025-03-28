@@ -12,3 +12,4 @@ I wrote this simple mod that lets you configure a list of commands to be run whe
 
 ## Links
 * [Book Generator](https://www.gamergeeks.net/apps/minecraft/give-command-generator/written-books)
+* [PokeJong Minecraft Server](https://pokejong.com/)
