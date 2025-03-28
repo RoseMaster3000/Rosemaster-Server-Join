@@ -7,5 +7,4 @@ I wrote this simple mod that lets you configure a list of commands to be run whe
 * Command blocks need to be in a loaded chunk to function
 
 ## Features
-* This mod injects into the [Player Join] event, and runs commands listed in the config file `server_join_commands.txt`.
-* It will also give a [book](https://www.gamergeeks.net/apps/minecraft/give-command-generator/written-books) listed in `server_join_book.txt`
+* This mod injects into the [Player Join] event, and runs commands listed in the config file `server_join_commands.txt`. *(Type `{player}` in the command for the players name)*
