@@ -9,3 +9,4 @@ I wrote this simple mod that gives an item to a player every day that they join 
 
 ## Links
 * [Book Generator](https://www.gamergeeks.net/apps/minecraft/give-command-generator/written-books)
+* [PokeJong Minecraft Server](https://pokejong.com/)
